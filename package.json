@@ -1,0 +1,20 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@akarui/aoi.db": "^2.2.6",
+    "@types/node": "^18.0.6",
+    "aoi.js": "^6.7.1",
+    "discord.js": "14.14.1",
+    "jimp": "^0.22.10",
+    "node-fetch": "^3.2.6"
+  }
+}
